@@ -1,1 +1,1 @@
-# C Programs I wrote while learning C.
+# A few programs that can be useful when learning C
