@@ -8,6 +8,9 @@ struct ogrenci
     int no;
 
 }ogr1,ogr2;
+/*Tanımlamanın ardından doğrudan ogr1 ve ogr2 adında iki adet struct ogrenci türünde değişken oluşturulmuştur.
+Yani bu yapı tanımı, hem yapıyı hem de yapıya ait değişkenleri aynı anda tanımlar.
+    */
 
 
 int main()
