@@ -8,7 +8,7 @@ struct ogrenci
     int no;
 
 }ogr1;
-
+//ogrenci adında bir struct tanımlanır ve ogr1 isimli değişken oluşturulur.
 void ogrenci_bilgileri(struct ogrenci ogr)
 {
     printf("Ogrencinin Adi:\n");
