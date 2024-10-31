@@ -8,7 +8,9 @@ typedef struct
     int no;
 
 }ogrenci;
-
+/*Adı olmayan bir yapı tanımlanır ve ogrenci adında bir tür oluşturulur. 
+typedef anahtar kelimesi sayesinde struct anahtarını kullanmadan doğrudan ogrenci türüyle değişken tanımlanabilir.
+*/
 void ogrenci_bilgileri(ogrenci ogr)
 {
     printf("Ogrencinin Adi:\n");
