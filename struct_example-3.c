@@ -8,7 +8,7 @@ typedef struct
     int no;
 
 }ogrenci;
-
+//ogrenci adında bir tür oluşturulmuştur. struct ın ismi yoktur.
 
 int main()
 {
