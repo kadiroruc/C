@@ -8,7 +8,7 @@ struct ogrenci
     int no;
 
 };
-
+//struct ın ismi ogrencidir.
 
 int main()
 {
